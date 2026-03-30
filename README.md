@@ -1,6 +1,4 @@
-# benn-payne.github.io
 
-<!DOCTYPE html>
 <html>
 <head>
     <title>My First Web Page</title>
